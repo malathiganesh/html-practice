@@ -1,0 +1,105 @@
+.container{
+    width: 1134px;
+    margin: auto;
+}
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.header-wrapper .header-logo{
+    width: 200px;
+    height: 90px;
+    border: solid 1px red;
+}
+.header-wrapper .header-nav{
+    width: 900px;
+    height: 90px;
+    border: solid 1px purple;
+}
+.banner-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.banner-wrapper .banner-text{
+    height: 800px;
+    width: 600px;
+    border: solid 1px blue;
+}
+.banner-wrapper .banner-img{
+    width: 555px;
+    height: 800px;
+    border: solid 1px yellow;
+}
+.about-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.about-wrapper .about-text{
+    height: 500px;
+    width: 650px;
+    border: solid 1px blue;
+}
+.about-wrapper .about-img{
+    height: 500px;
+    width: 700px;
+    border: solid 1px yellow;
+}
+.statistics-wrapper{
+    display: flex;
+    justify-content: space-around;
+}
+.statistics-wrapper .statistics-one{
+    border: solid 1px navy;
+    height: 250px;
+    width: 380px;
+}
+.statistics-wrapper .statistics-two{
+    height: 250px;
+    width: 380px;
+    border: solid 1px navy;
+}
+.statistics-wrapper .statistics-three{
+    height: 250px;
+    width: 380px;
+    border: solid 1px navy;
+}
+.statistics-wrapper .statistics-four{
+    height: 250px;
+    width: 380px;
+    border: solid 1px navy;
+}
+.service-header{
+    height: 220px;
+    border: solid 1px aqua;
+}
+.service-content{
+    height: 600px;
+    border: solid 1px lawngreen;
+}
+.service-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+.service-wrapper .service-items{
+    height: 210px;
+    outline: solid 1px royalblue;
+    width: 33.333%;
+}
+.features-header{
+    height: 150px;
+    border: solid 1px aqua;
+}
+.features-wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.features-wrapper .features-text{
+    height: 500px;
+    width: 600px;
+    border: solid 1px blue;
+}
+.features-wrapper .features-img{
+    width: 555px;
+    height: 500px;
+    border: solid 1px yellow;
+}
